@@ -1,0 +1,5 @@
+I play a card game called Magic the Gathering off and on. Part of playing Magic is making decks from a set of cards that are released, and the game you play is only as good as the deck that you have. For fun, I started trying to make a genetic algorithm that would design decks for me. And then to add on to it, I figured I might as well develop an AI to play those decks against each other to evaluate the fitness. This is my attempt at those. The GA folder contains the genetic algorithm. It's pretty straightforward and extremely unehanced, because I pulled off of it to work on the AI.
+
+The AI is still a work in progress that will never be completed. Maintaining the rules engine of a system as complicated as Magic is a hard problem, that even the owners of the game have problems with. I was just trying to take some baby steps to it, which is what you see here.
+
+Even without knowing anything about the game it's representing, I think that it goes into how I organize my code and also plays a little bit with inheritance. All creatures are spells, for example, and that's represented by the Creature class extending the Spell class.

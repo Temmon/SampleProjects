@@ -1,0 +1,2 @@
+This is just a sample file so that the program can run. 
+It's neither very interesting nor very fun.
